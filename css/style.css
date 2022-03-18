@@ -1,0 +1,35 @@
+body {
+    background-color: antiquewhite;
+    font-family: Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+img {
+    height: 500px;
+    width: auto;
+}
+
+.lists{
+    padding-left: 0;
+    background-color: beige;
+    font-size: 20px;
+    list-style-position: inside;
+}
+li {
+    margin-top: 15px;
+    text-align: center;
+}
+
+a {
+    color: green;
+    
+    
+}
+a:hover{
+    color: goldenrod;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
